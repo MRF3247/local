@@ -1,0 +1,1 @@
+export PATH="/c/vsc-demo/local:$PATH"
